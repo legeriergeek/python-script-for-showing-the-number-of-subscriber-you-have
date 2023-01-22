@@ -2,4 +2,4 @@
 a python script to see you number of subscriber on youtube using youtube API
 # for use this script you need:
 python 3, 
-a youtube api key
+a youtube api key and you need make "pip install requests" for install requests
